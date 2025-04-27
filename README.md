@@ -35,7 +35,7 @@
   </div>
   <div>
     <h5>Education</h5>
-    <p><span style="color:blue">Kenya Industrial Training College,Nakuru-Advanced Diploma</span><br>
+    <p><span style="color:blue">Kenya Industrial Training College,Nakuru-ICT Diploma</span><br>
       Year 2021-2024<br>
     </p>
   </div>
